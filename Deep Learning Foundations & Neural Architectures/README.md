@@ -27,7 +27,7 @@ This project provides a rigorous exploration of deep learning, ranging from theo
     -   Evaluation of optimization stability and convergence speed provided by pre-trained weight initialization.
 
 ## Project Report
-_A detailed **Report** with mathematical proofs, variance stability analysis, and VGG-11 performance plots is available here: [Report.pdf](https://github.com/ParsaBukani/Machine-Learning/blob/main/HW5/Content/Report.pdf)_
+_A detailed **Report** with mathematical proofs, variance stability analysis, and VGG-11 performance plots is available here: [Report.pdf](./Report.pdf)_
 
 ## Acknowledgements
 
